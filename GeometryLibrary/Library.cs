@@ -13,7 +13,7 @@ namespace GeometryLibrary
         // Определяем класс Circle, который реализует интерфейс IShape
         public class Circle : IShape
         {
-            private double Radius; // Радиус круга
+            private double Radius;
 
             public Circle(double radius)
             {
